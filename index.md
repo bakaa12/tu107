@@ -1,12 +1,40 @@
-## Welcome to GitHub Pages
+## Digital Profile
+![alt text](https://www.picz.in.th/image/s-74481676.6xfvQn)
 
 You can use the [editor on GitHub](https://github.com/bakaa12/tu107/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](C:\Users\User\Desktop\boatsu)
+### About Me
 
-### Markdown
+- Name : Athakowit Su.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+- Nickname : Boat.
+
+
+- Birth Day : 15 December 2002.
+
+### Education
+
+- kindergarten : Theanprasitthisat 
+
+- High School : Bangkok Christian College (BCC)
+
+- University : Thammasat Univertsuty(Data Science and Innovation)
+
+
+### Activity
+- One of the leaders Chaturamit Football 29th unity Fair
+
+
+- Cheerleader at the Color Sports Fair 2014
+
+
+
+- President of Ticket Sales Department, celebrating the school's 168th anniversary
+
+
 
 ```markdown
 Syntax highlighted code block
