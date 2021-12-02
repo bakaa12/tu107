@@ -5,13 +5,13 @@
 ## About Me 👾
 
 
-Name : Athakowit Su.
+- Name : Athakowit Su.
 
 
-Nickname : Boat , Su
+- Nickname : Boat , Su
 
 
-Birth Day : 15 December 2002.
+- Birth Day : 15 December 2002.
 
 ## Education 📒
 
